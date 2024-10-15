@@ -1101,7 +1101,7 @@ body.fullscreenbgimage #main>section#home:after {
 }
 
 body.bgimage #main>section#home {
-  background-image: url('../img/leftimage-bg.jpg');
+  background-image: url('../img/itachi-bg.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -1120,6 +1120,8 @@ body.bgvideo #main>section#home:after {
 }
 
 .leftimagepicture {
+  width: 400px; 
+  height: 400px;
   position: fixed;
   border-radius: 50%;
   max-width: 320px;
